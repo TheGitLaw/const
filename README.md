@@ -16,3 +16,5 @@ Main purpose of the project is to give people control on how laws are edited, wh
 * Permission levels for admins, moderators, organizations, local communities etc.
     accept pull requests, merge, add comments etc.
 * view [history](./commits) 
+
+[Current Constitution edition](./zakon.md) Markdown formated
