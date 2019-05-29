@@ -15,6 +15,6 @@ Main purpose of the project is to give people control on how laws are edited, wh
 * OAuth by BankID, MobileID, digital signature
 * Permission levels for admins, moderators, organizations, local communities etc.
     accept pull requests, merge, add comments etc.
-* view [history](./commits) 
+* view [history](https://github.com/TheGitLaw/const/commits/master) 
 
 [Current Constitution edition](./zakon.md) Markdown formated
